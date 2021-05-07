@@ -5,7 +5,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-julie-lacresse.vercel.app/api/spotify-playing" alt="leiju Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-julielacresse.vercel.app/api/spotify-playing" alt="leiju Spotify Playing" width="350" />]
 
 ### Social networks:
 
