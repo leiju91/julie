@@ -3,10 +3,6 @@
 
 ## Developer front-end junior who love design !
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-julielacresse.vercel.app/api/spotify-playing" alt="leiju Spotify Playing" width="350" />]
-
 ### Social networks:
 
 [<img align="left" alt="leiju-studio.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](www.leiju-studio.fr)
