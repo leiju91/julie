@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julie as Leiju</h1>
 <h3 align="center">I'm a french developer front junior who love design !</h3>
+<br>
 
 
 - 🔭 I’m currently working on **my new portfolio with React**
@@ -17,7 +18,6 @@
 
 <img align="center" alt="leiju91's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leiju91&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leiju91&layout=compact&theme=radical" />
-<h3 align="left">Socials:</h3>
 
 ### Socials:
 
