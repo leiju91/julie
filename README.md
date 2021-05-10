@@ -1,7 +1,7 @@
 # Hi 👋, I'm Julie !</h1>
 <br>
 
-## Developer front-end junior who love design !
+## I'm a french developer front junior who love design !
 
 ### Social networks:
 
