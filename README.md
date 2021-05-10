@@ -3,6 +3,8 @@
 
 <h3 align="left">Socials:</h3>
 
+<a href="https://linkedin.com/in/leiju91" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
+<a href="https://instagram.com/leiju01" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="buck.sh0t" height="30" width="40" /> </a>
 
 
 - 🔭 I’m currently working on **my new portfolio with React**
