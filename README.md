@@ -22,3 +22,10 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leiju91&layout=compact&theme=radical" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leiju91)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leiju91&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leiju91&repo=convoychat" />
+</a>
