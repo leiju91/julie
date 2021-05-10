@@ -21,9 +21,9 @@
 <img align="center" alt="leiju91's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leiju91&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=leiju91&layout=compact&theme=radical" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/leiju91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leiju91&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/leiju91/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leiju91&repo=convoychat" />
 </a>
