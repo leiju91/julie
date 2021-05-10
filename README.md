@@ -2,8 +2,7 @@
 <h3 align="center">I'm a french developer front junior who love design !</h3>
 
 <h3 align="left">Socials:</h3>
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/leiju91"/>
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://linkedin.com/in/leiju91"/>
+
 
 
 - 🔭 I’m currently working on **my new portfolio with React**
